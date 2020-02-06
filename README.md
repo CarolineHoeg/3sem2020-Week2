@@ -14,5 +14,5 @@
 
 ## Thursday
 1. I completed all the exercises.
-2. Solutions to the exercises can be found [here](https://carolinehoeg.com/3sem2020-Week2/).
+2. Solutions to the exercises can be found [here](https://carolinehoeg.com/SP2-1.0-test/).
 3. HTTPS
