@@ -7,12 +7,12 @@
 
 
 ## Wednesday
-1. 
-2. Solutions to the exercises can be found in the folder "02-wednesday-exercises", which includes both code and a text doument.
-3. HTTP, HTTP Headers, HTTP Request Status Codes
+1. I completed all the exercises, including the yellow and red ones.
+2. Solutions to the exercises can be found in the folder "02-wednesday-exercises".
+3. HTTP, HTTP Headers, HTTP Request Status Codes, Session, Cookies
 
 
 ## Thursday
 1. I completed all the exercises.
-2. Solutions to the exercises can be found [here](https://carolinehoeg.com/...)
+2. Solutions to the exercises can be found [here](https://carolinehoeg.com/...).
 3. HTTPS
